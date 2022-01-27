@@ -1,6 +1,7 @@
 public class Alphabets {
   public static void main(String[] args) {
-   
+   //Space complexity - O(1)
+  //Time complexity - O(n) 
    String string="abcdefGHIJKL__mnOPQRstuvwxyZ";
    boolean visited[]=new boolean[26];
    
